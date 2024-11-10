@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_Tailwind_CSS_Responsive_Website/static/css/main.efa50ff0.css",
+    "main.js": "/React_Tailwind_CSS_Responsive_Website/static/js/main.6552c370.js",
+    "static/media/laptop.jpg": "/React_Tailwind_CSS_Responsive_Website/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/React_Tailwind_CSS_Responsive_Website/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/React_Tailwind_CSS_Responsive_Website/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/React_Tailwind_CSS_Responsive_Website/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/React_Tailwind_CSS_Responsive_Website/index.html",
+    "main.efa50ff0.css.map": "/React_Tailwind_CSS_Responsive_Website/static/css/main.efa50ff0.css.map",
+    "main.6552c370.js.map": "/React_Tailwind_CSS_Responsive_Website/static/js/main.6552c370.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa50ff0.css",
+    "static/js/main.6552c370.js"
+  ]
+}
